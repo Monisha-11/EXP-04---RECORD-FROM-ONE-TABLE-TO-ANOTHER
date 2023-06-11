@@ -1,4 +1,4 @@
-# EXP 04 - CREATE A SQL PROGRAM TO SHOW THE RECORD ONE TABLE TO ANOTHER THAT DOES'T HAVE.
+# EXP 04 - CREATE A SQL PROGRAM TO SHOW THE RECORD ONE TABLE TO ANOTHER.
 
 ## AIM:
 
@@ -8,10 +8,9 @@ To show that the records of one table doesnot exists in another table by using S
 
 1) Create a sample table in SQL using CREATE TABLE syntax
 2) Insert all the values and Titles respectively using INSERT INTO syntax
-3) Now check whether all the rows are affected or not by fetching the table
-4) After checking, now use SELECT for choosing the column name that we want and use FROM to choose the table
-5) Then use WHERE to check the condition and NOT IN syntax to check whether the column or table mention is there in another table
-6) After compiling and running the program, the results will be displayed.
+3) After checking, now use SELECT for choosing the column name that we want and use FROM to choose the table
+4) Then use WHERE to check the condition and NOT IN syntax to check whether the column or table mention is there in another table
+5) After compiling and running the program, the results will be displayed.
 
 ## PROGRAM:
 ```java 
